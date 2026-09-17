@@ -23,8 +23,8 @@ To write a java program demonstrating Interface implementation using different j
  ```
 /*
 Program to implement a Interface using Java
-Developed by: Raviprasath K
-RegisterNumber:212224230225
+Developed by: Gobikrishnan S R
+RegisterNumber:212224060081
 */
 ```
 
