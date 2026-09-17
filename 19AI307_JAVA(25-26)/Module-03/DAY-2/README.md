@@ -21,8 +21,8 @@ To write a Java program demonstrating runtime polymorphism using method overridi
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by:Raviprasath K
-RegisterNumber:212224230225
+Developed by:Gobikrishnan S R
+RegisterNumber:212224060081
 */
 ```
 
