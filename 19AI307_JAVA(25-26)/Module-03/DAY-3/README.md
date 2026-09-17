@@ -22,8 +22,8 @@ To implement Abstraction in Java by defining an abstract class with abstract met
  ```
 /*
 Program to implement a Abstraction using Java
-Developed by: Raviprasath K
-RegisterNumber:212224230225
+Developed by: Gobikrishnan S R
+RegisterNumber:212224060081
 */
 ```
 
